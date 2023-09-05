@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.9908eeb1.js",
+    "main.js": "/static/js/main.bdaffdda.js",
     "static/media/macbook.png": "/static/media/macbook.e0a8c5d5cc02d71b6d86.png",
     "static/media/bg-sign-in-basic.jpeg": "/static/media/bg-sign-in-basic.f327db1d0e4b00ba3c81.jpeg",
     "static/media/bg-presentation.jpg": "/static/media/bg-presentation.889630297390d27e8dfb.jpg",
@@ -17,9 +17,9 @@
     "static/media/logo-nasa.svg": "/static/media/logo-nasa.b4e79ad93e48f27643c48621609ba18b.svg",
     "static/media/logo-netflix.svg": "/static/media/logo-netflix.41468e1be7ec61f28c77c2d4da86083e.svg",
     "index.html": "/index.html",
-    "main.9908eeb1.js.map": "/static/js/main.9908eeb1.js.map"
+    "main.bdaffdda.js.map": "/static/js/main.bdaffdda.js.map"
   },
   "entrypoints": [
-    "static/js/main.9908eeb1.js"
+    "static/js/main.bdaffdda.js"
   ]
 }
